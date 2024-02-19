@@ -1,0 +1,3 @@
+([('TBWAServerUp',
+   '/Users/apple/work/proyectos/TBWAServerInstall/dist/TBWAServerUp',
+   'EXECUTABLE')],)
