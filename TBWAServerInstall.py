@@ -7,6 +7,7 @@ commands = [
     "launchctl load /Library/LaunchAgents/com.tbwa.start_captura_macos.plist"
 ]
 
+
 starts = [
     "launchctl start com.tbwa.start_server_macos",
     "launchctl start com.tbwa.start_monitor_macos",
